@@ -1,40 +1,37 @@
 # Technical Technique Presentation Proposal
 
 ## Introduction
-- Brief overview of the presentation topic
-- Importance of the technical technique in the assigned domain (i.e. Team Reporting, Team ETL, etc)
-- Objectives of the presentation
-- I hope to demonstrate how to map earthquake occurrances in Indonesia. 
--  
+- I hope to demonstrate how to map earthquake occurrances in Indonesia.
+- I am part of the Reporting Team.  
+- People can relate to coordinates if it is on a map.
 
 ## Background
-- Current state of technology in the domain
-- Challenges and opportunities
 - Many occurrances happen over time. It's nice to know where these occurrances are so we can either find the places to go to or to avoid them. In this case I would want to avoid earthquakes.
 
-## Presentation Candidate
-- Name and background of the presenter
-- Relevant experience and expertise
+
+## About Emily
+- I studied Earth Sciences at Dalhousie a long time ago.
+- I would like to merge my skills in the sciences with machine learning.
+
 
 ## Sample Data Selection
-- Criteria for selecting sample data
-- Sources of sample data
-- Relevance of the data to the demonstration
+- I chose this data because it has coordinates in longitude and latitude format.
+- This data was collected in Indonesia from 2018-2023 of earthquakes occurrances and magnitude
+- Mapping locations visualizes where the coordinates are.
+
 
 ## Technical Technique Demonstration
-- Description of the technical technique
-- Steps for applying the technique to the sample data
-- Expected outcomes and benefits
+- The mapping tool is in Power BI.
+- I hope to demonstrate of earthquake occurrance by magitude by location.
 
 ## Implementation Plan
-- Timeline for the preparation of the presentation
-- Resources required (software, hardware, etc.)
-- Practice sessions and dry runs
+- Project is due April 17, 2023
+- Use Power BI as the reporting tool.
+- Create a video
 
 ## Conclusion
-- Summary of what will be achieved with the presentation
-- Call to action for the audience
+- Using Power BI mapping tool to learn about mapping in my Reporting Team.
 
 ## Appendices
-- References to technical literature
-- Links to resources for further reading
+- Kimball Group. https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/
+- Kaggle.(https://www.kaggle.com/datasets/kekavigi/earthquakes-in-indonesia/data)
