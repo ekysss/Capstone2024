@@ -1,13 +1,16 @@
-# Business Intelligence Presentation Proposal
+# Earthquakes in Indonesia Presentation Proposal
 
 ## Introduction
-- Overview of the business intelligence topic
-- Significance of data-driven decision-making
-- Goals of the presentation
+- This data is about earthquakes that had occurred in Indonesia from 2018-2023.
+- The data has magnitude, time and locations of the earthquakes.
+- I hope to learn to map these earthquakes in Indonesia.
 
 ## Presentation Candidate
 - Name and professional background
 - Experience with business intelligence tools and methodologies
+- My name is Emily Suen and I am constant learner.
+- I am a mother of three, I've been a residential counsellor, and  
+- I have completed B.Sc. in Earth Sciences from Dalhousie, Diploma in Business Administration from NSCC.
 
 ## Data Selection
 - Criteria for choosing the dataset
