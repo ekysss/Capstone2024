@@ -22,13 +22,13 @@
 - Can I predict an earthquake?
 
 ## Implementation Plan
-- Schedule for the development of the presentation
-- Necessary resources (BI tools, datasets, etc.)
-- Rehearsals and feedback sessions
+- Apply storytelling skills to make this interesting
+- Create a video
+- Due April 17, 2023
 
 ## Conclusion
-- Recap of the expected contributions of the presentation
-- Encouragement for audience engagement
+- Find when earthquake occur and a safe place to go if I were to visit Indonesia.
+- Not all earthquakes are destructive.
 
 ## Resources
 - Kimball Group. (https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/)
