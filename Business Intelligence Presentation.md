@@ -6,11 +6,11 @@
 - I hope to learn to map these earthquakes in Indonesia.
 
 ## Presentation Candidate
-- Name and professional background
-- Experience with business intelligence tools and methodologies
 - My name is Emily Suen and I am constant learner.
-- I am a mother of three, I've been a residential counsellor, and  
+- I am a mother of three, I've been a residential counsellor, and the Bagel Lady at the Pugwash Farmer's market
 - I have completed B.Sc. in Earth Sciences from Dalhousie, Diploma in Business Administration from NSCC.
+- I've gained some office experience working as the salt mine's office clerk.
+- This year I have gained applied knowledge with PowerBI, SQL, and Python which will be demonstrated while working on this project 
 
 ## Data Selection
 - Criteria for choosing the dataset
