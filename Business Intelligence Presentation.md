@@ -16,9 +16,10 @@
 - This data can be related to oceanic discoveries, seismic activities, health occurrances related by locations, or any occurrances with locations.
 
 ## Business Intelligence Techniques Demonstration
-- Overview of the selected business intelligence techniques
-- Process of applying these techniques to the chosen data
-- Anticipated insights and their impact on business strategies
+- Apply Python for EDA of the data
+- Implement a Linear Regression Model on data
+- Power BI to create the presentation
+- Can I predict an earthquake?
 
 ## Implementation Plan
 - Schedule for the development of the presentation
@@ -29,6 +30,6 @@
 - Recap of the expected contributions of the presentation
 - Encouragement for audience engagement
 
-## Appendices
-- Bibliography of business intelligence literature
-- Resources for additional learning and exploration
+## Resources
+- Kimball Group. (https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/)
+- Kaggle.(https://www.kaggle.com/datasets/kekavigi/earthquakes-in-indonesia/code)
