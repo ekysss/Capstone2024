@@ -4,10 +4,13 @@
 - Brief overview of the presentation topic
 - Importance of the technical technique in the assigned domain (i.e. Team Reporting, Team ETL, etc)
 - Objectives of the presentation
+- I hope to demonstrate how to map earthquake occurrances in Indonesia. 
+-  
 
 ## Background
 - Current state of technology in the domain
 - Challenges and opportunities
+- Many occurrances happen over time. It's nice to know where these occurrances are so we can either find the places to go to or to avoid them. In this case I would want to avoid earthquakes.
 
 ## Presentation Candidate
 - Name and background of the presenter
