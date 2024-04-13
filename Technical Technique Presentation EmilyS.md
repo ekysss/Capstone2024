@@ -1,37 +1,35 @@
 # Technical Technique Presentation Video
 
+[![image](https://github.com/ekysss/Capstone2024/assets/148264582/97c2f441-522a-413c-a622-fe91ee093d3d)](https://youtu.be/l-USlA93QK8)
+
 ## Introduction
-- I hope to demonstrate how to map earthquake occurrances in Indonesia.
-- I am part of the Reporting Team.  
-- People can relate to coordinates if it is on a map.
+- As part of Team Reporting, I would like to highlight Power BI mapping tool.
+- Many datasets have location in cities or in coordinates. It might mean something to computers but to people it can be a jumble of numbers.
+- Here, I will demonstrate how to build a map on PowerBI and put that information into perspective.
 
 ## Background
-- Many occurrances happen over time. It's nice to know where these occurrances are so we can either find the places to go to or to avoid them. In this case I would want to avoid earthquakes.
-
-
+- The original data is about earthquakes in Indonesia from 2005-2023, comprising over 92,000 sets in 13 features. Indonesia is prone to tectonic activity because it's in the vicinity of the Ring of Fire in the Pacific Ocean.
+  
 ## About Emily
 - I studied Earth Sciences at Dalhousie a long time ago.
 - I would like to merge my skills in the sciences with machine learning.
 
-
 ## Sample Data Selection
 - I chose this data because it has coordinates in longitude and latitude format.
-- This data was collected in Indonesia from 2018-2023 of earthquakes occurrances and magnitude
-- Mapping locations visualizes where the coordinates are.
-
+- Filtering magnitude in Richter scale and the count of the occurances in specific magnitude can show the places where there are more plate tectonic activties.
+- The coordinates of the epicenter of the earthquakes can be visualized on maps.
 
 ## Technical Technique Demonstration
 - The mapping tool is in Power BI.
-- I hope to demonstrate of earthquake occurrance by magitude by location.
+- To demonstrate earthquake's epicenters can be mapped by occurrance, magitude and location.
 
 ## Implementation Plan
-- Project is due April 17, 2023
+- Project is due April 15, 2023
 - Use Power BI as the reporting tool.
 - Create a video
   
 ## Video Link
 [![image](https://github.com/ekysss/Capstone2024/assets/148264582/97c2f441-522a-413c-a622-fe91ee093d3d)](https://youtu.be/l-USlA93QK8)
-
 
 ## Conclusion
 - Using Power BI mapping tool to learn about mapping in my Reporting Team.
