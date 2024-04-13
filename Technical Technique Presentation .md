@@ -32,7 +32,7 @@
 - Use Power BI as the reporting tool.
 - Create a video
   
-## <img src="https://github.com/ekysss/Capstone2024/assets/148264582/d48b0480-6126-48c3-91e2-2eba869d66e6" width="50" height="50"> Video Link
+## <img src="https://github.com/ekysss/Capstone2024/assets/148264582/d48b0480-6126-48c3-91e2-2eba869d66e6" width="50" height="50"> Video Link ###(Click on the image below to open the video)
 [![image](https://github.com/ekysss/Capstone2024/assets/148264582/97c2f441-522a-413c-a622-fe91ee093d3d)](https://youtu.be/l-USlA93QK8)
 
 ## Conclusion <img src="https://github.com/ekysss/Capstone2024/assets/148264582/a8050243-25ff-4a02-9266-5f862cad125f" width="50" height="50">
