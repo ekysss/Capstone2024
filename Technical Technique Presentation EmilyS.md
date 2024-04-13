@@ -1,4 +1,4 @@
-# Technical Technique Presentation Proposal
+# Technical Technique Presentation Video
 
 ## Introduction
 - I hope to demonstrate how to map earthquake occurrances in Indonesia.
