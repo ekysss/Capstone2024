@@ -15,7 +15,8 @@
 - I studied Earth Sciences at Dalhousie a long time ago.
 - Then I continued my studies at NSCC in their Business Administration course.
 - Recently, I have embarked on a life journey to learn and apply my full potential in Business Intelligence and Analysis.
-- I would like to merge my skills in the sciences and business with machine learning and continue learning.
+- I would like to merge my skills in the sciences and business with machine learning.
+- I am passionate of data analysis and continuous learning.
 
 ## Sample Data Selection <img src="https://github.com/ekysss/Capstone2024/assets/148264582/a8050243-25ff-4a02-9266-5f862cad125f" width="50" height="50">
 - I chose this data because it has coordinates in longitude and latitude format.
