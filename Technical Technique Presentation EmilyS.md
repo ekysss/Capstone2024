@@ -4,6 +4,7 @@
 
 
 <img src="[![map](https://github.com/ekysss/Capstone2024/assets/148264582/d48b0480-6126-48c3-91e2-2eba869d66e6)]" width="50" height="50"> 
+
 ## Introduction
 - As part of Team Reporting, I would like to highlight Power BI mapping tool.
 - Many datasets have location in cities or in coordinates. It might mean something to computers but to people it can be a jumble of numbers.
