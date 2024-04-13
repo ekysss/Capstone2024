@@ -30,6 +30,8 @@
 - Create a video
   
 ## Video Link
+![image](https://github.com/ekysss/Capstone2024/assets/148264582/9c91ae7f-743f-45ba-8423-458fdfffceb4)
+
 - https://youtu.be/l-USlA93QK8
  
 ## Conclusion
