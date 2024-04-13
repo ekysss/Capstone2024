@@ -3,7 +3,7 @@
 [![videoimage](https://github.com/ekysss/Capstone2024/assets/148264582/97c2f441-522a-413c-a622-fe91ee093d3d)](https://youtu.be/l-USlA93QK8)
 
 
-<img src="[![map](https://github.com/ekysss/Capstone2024/assets/148264582/d48b0480-6126-48c3-91e2-2eba869d66e6)]" width="50" height="50"> 
+<img src="https://github.com/ekysss/Capstone2024/assets/148264582/d48b0480-6126-48c3-91e2-2eba869d66e6" width="50" height="50"> 
 
 ## Introduction
 - As part of Team Reporting, I would like to highlight Power BI mapping tool.
