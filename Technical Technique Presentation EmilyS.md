@@ -28,7 +28,10 @@
 - Project is due April 17, 2023
 - Use Power BI as the reporting tool.
 - Create a video
-
+  
+## Video Link
+- https://youtu.be/l-USlA93QK8
+ 
 ## Conclusion
 - Using Power BI mapping tool to learn about mapping in my Reporting Team.
 
