@@ -40,3 +40,6 @@
 ## Appendices
 - Kimball Group. https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/
 - Kaggle.(https://www.kaggle.com/datasets/kekavigi/earthquakes-in-indonesia/data)
+- Flaticon.<a href="https://www.flaticon.com/free-icons/circus" title="circus icons">Circus icons created by Freepik - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/map" title="map icons">Map icons created by Freepik - Flaticon</a>
+
