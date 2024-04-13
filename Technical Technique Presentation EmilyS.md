@@ -30,10 +30,10 @@
 - Create a video
   
 ## Video Link
-![image](https://github.com/ekysss/Capstone2024/assets/148264582/9c91ae7f-743f-45ba-8423-458fdfffceb4)
+[![image](https://github.com/ekysss/Capstone2024/assets/148264582/97c2f441-522a-413c-a622-fe91ee093d3d)]
+(https://youtu.be/l-USlA93QK8)
 
-- https://youtu.be/l-USlA93QK8
- 
+
 ## Conclusion
 - Using Power BI mapping tool to learn about mapping in my Reporting Team.
 
