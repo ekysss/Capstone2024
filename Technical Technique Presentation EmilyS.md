@@ -10,7 +10,7 @@
 - Many datasets have location in cities or in coordinates. It might mean something to computers but to people it can be a jumble of numbers.
 - Here, I will demonstrate how to build a map on PowerBI and put that information into perspective.
 
-## Background <img src="https://github.com/ekysss/Capstone2024/assets/148264582/a8050243-25ff-4a02-9266-5f862cad125f" width="50" height="50"
+## Background <img src="https://github.com/ekysss/Capstone2024/assets/148264582/a8050243-25ff-4a02-9266-5f862cad125f" width="50" height="50">
 
 - The original data is about earthquakes in Indonesia from 2005-2023, comprising over 92,000 sets in 13 features. Indonesia is prone to tectonic activity because it's in the vicinity of the Ring of Fire in the Pacific Ocean.
   
