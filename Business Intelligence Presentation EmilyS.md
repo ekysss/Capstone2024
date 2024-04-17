@@ -27,8 +27,8 @@
 - Create a video
 - Due April 17, 2023
 
-## Video Link
-https://www.youtube.com/watch?v=R-78ZSkoWKs
+## Video Link, please click on image below
+[![Mag5](https://github.com/ekysss/Capstone2024/assets/148264582/56812c2b-196c-41d2-8ea1-39f94ae4702e)](https://www.youtube.com/watch?v=R-78ZSkoWKs)
 
 ## Conclusion
 - Find when earthquake occur and a safe place to go if I were to visit Indonesia.
@@ -37,3 +37,5 @@ https://www.youtube.com/watch?v=R-78ZSkoWKs
 ## Resources
 - Kimball Group. (https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/)
 - Kaggle.(https://www.kaggle.com/datasets/kekavigi/earthquakes-in-indonesia/code)
+- Safety Skills.(https://safetyskills.com/earthquake-safety/)
+- Science Notes(https://sciencenotes.org/richter-scale-and-earthquake-magnitude/)
