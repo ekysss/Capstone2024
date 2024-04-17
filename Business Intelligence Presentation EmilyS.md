@@ -1,5 +1,5 @@
 # Earthquakes in Indonesia Presentation Video
-https://www.youtube.com/watch?v=R-78ZSkoWKs
+![Mag5](https://github.com/ekysss/Capstone2024/assets/148264582/56812c2b-196c-41d2-8ea1-39f94ae4702e)(https://www.youtube.com/watch?v=R-78ZSkoWKs)
 
 ## Introduction
 - In this project I will apply Python and PowerBI to make the data about earthquakes that had occurred in Indonesia from 2018-2023 more comprehesible by mapping out the occurrances, seeing if there are more occurrances during the time of year or time of day.
